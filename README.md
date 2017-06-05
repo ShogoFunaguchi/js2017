@@ -1,6 +1,6 @@
 ザッと目次を並べてみましたが、よくあるプログラミングの本なんかだとこんな感じでしょうか？
 
-## open cource javasciprt web programming for begginer index
+## open cource javasciprt programming for begginer index
 
 - [0.はじめに](/begginer/00.md)
 
@@ -24,7 +24,7 @@
 - 6.cssアニメーション
 
 
-## open course intermediate javascript game programming index
+## open course javascript programming for intermadiate index
 
 - html canvas
 - three.js
