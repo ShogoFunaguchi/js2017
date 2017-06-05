@@ -1,3 +1,6 @@
+よくあるプログラミングの本なんかだとこんな感じでしょうか？
+↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓
+
 ## open cource javasciprt web programming for begginer index
 
 - [0.はじめに](/begginer/00.md)
